@@ -1,4 +1,4 @@
-# Traffic-Sign-Detection-For-Self-Driving-Cars
+# Traffic-Sign-Recognition
 
 An autonomous car is a vehicle capable of sensing its environment and operating without human involvement. A human passenger is not required to take control of the vehicle at any time, nor is a human passenger required to be present in the vehicle at all. An autonomous car can go anywhere a traditional car goes and do everything that an experienced human driver does.
 
